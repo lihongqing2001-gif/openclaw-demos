@@ -1,9 +1,8 @@
 # OpenClaw Demos
 
-Public demo resources will be published here.
+This repository reserves a catalog for OpenClaw demo resources. No resources are published here yet.
 
-## Layout
+- [index.json](index.json) contains the empty resource catalog.
+- [third-party-audit.json](third-party-audit.json) contains the empty upstream-resource audit.
 
-- `resources/` contains public resource directories
-- `index.json` is the machine-readable catalog
-- `third-party-audit.json` tracks upstream-only resources
+There is currently no `resources/` directory or installable content.
